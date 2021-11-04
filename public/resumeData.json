@@ -1,14 +1,14 @@
 {
   "main": {
     "name": "Think Web Engineering",
-    "description": "I am a web development engineer and I use react and python to develop full stack web apps and sites",
+    "description": "I am a web development and automation engineer and I use react and python to develop full stack web applications and automate tasks",
     "image": "profilepic.jpg",
-    "bio": "I am a web developer and script programmer using Python, JavaScript, HTML, and CSS.  I have been learning programming after deciding to make a career switch from being a pharmacist",
-    "contactmessage": "I'm here to affordably make your website dreams become a reality quickle",
+    "bio": "I am a web development and automation programmer using Python, JavaScript, HTML, and CSS.  I have been learning programming after deciding to make a career switch from being a pharmacist",
+    "contactmessage": "I'm here to affordably make your website dreams become a reality quickly and beautifully",
     "email": "thinkwebengineering@gmail.com",
-    "phone": "303-957-7939",
+    "phone": "",
     "github": "https://github.com/rscales02",
-    "project": "https://github.com/rscales02",
+    "project": "https://www.linkedin.com/in/robert-scales-856057155/",
     "address": {
       "street": "7750 Okeechobee Blvd Ste 4",
       "city": "West Palm Beach",
@@ -16,7 +16,7 @@
       "zip": "33411"
     },
     "website": "",
-    "resumedownload": "",
+    "resumedownload": "RobertScalesCV.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -51,7 +51,7 @@
         "company": "ThinkWeb Engineering",
         "title": "Owner/Developer",
         "years": "March 2019 - Present",
-        "description": "Building custom web apps and websites to customer specifications and designs"
+        "description": "Building custom web apps and websites to customer specifications and designs as well as automation and data mining"
       }
     ],
     "skills": [
@@ -72,11 +72,12 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canna Qracja",
-        "category": "(offline now) CBD informational website for Polish speakers",
-        "image": "cannaqracja.png",
-        "url": "https://github.com/rscales02/alexcanna"
+        "title": "Rawlings",
+        "category": "Desktop only project for customizing Rawlings baseball/softball glove color choices",
+        "image": "rawlings.png",
+        "url": "https://rawlings.thinkwebengineering.info"
       },
+
       {
         "title": "Sfiltrowani",
         "category": "(offline now) Consumer health information with airquality tracking in Poland",
@@ -84,10 +85,10 @@
         "url": "https://github.com/rscales02/sfiltrowani"
       },
       {
-        "title": "Rawlings",
-        "category": "(offline now) Interview test project for customizing Rawlings baseball/softball glove color choices",
-        "image": "rawlings.png",
-        "url": "https://github.com/rscales02/rawlings"
+        "title": "Canna Qracja",
+        "category": "CBD informational website for Polish speakers",
+        "image": "cannaqracja.png",
+        "url": "https://canna.thinkwebengineering.info"
       }
     ]
   }

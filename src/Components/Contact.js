@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { ContactUs } from "./ContactUs";
 
 class Contact extends Component {
   render() {
@@ -29,7 +30,7 @@ class Contact extends Component {
 
         <div className="row">
           <div className="eight columns">
-            <form
+            {/* <form
               action="mailto:thinkwebengineering@gmail.com"
               method="post"
               id="contactForm"
@@ -95,8 +96,8 @@ class Contact extends Component {
                   </span>
                 </div>
               </fieldset>
-            </form>
-
+            </form> */}
+            <ContactUs />
             <div id="message-warning"> Error boy</div>
             <div id="message-success">
               <i className="fa fa-check"></i>Your message was sent, thank you!
